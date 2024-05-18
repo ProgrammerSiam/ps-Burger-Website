@@ -14,13 +14,13 @@ To run **Coffee-Website** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/ProgrammerSiam/ps-Coffee-Website.git
+sudo git clone https://github.com/ProgrammerSiam/ps-Burger-Website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/ProgrammerSiam/ps-Coffee-Website.git
+git clone https://github.com/ProgrammerSiam/ps-Burger-Website.git
 ```
 
 
